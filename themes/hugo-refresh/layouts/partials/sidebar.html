@@ -1,4 +1,4 @@
-<!--<div class="sidebar scroll">
+<div class="sidebar scroll">
   <div class="sidebar-header">
     {{- $out_fo  := "sidebar.svg" -}}
     {{- $img_n   := .Site.Params.sidebar.logo -}}
@@ -21,7 +21,7 @@
           {{- end -}}
             <div class="columns">
               <table width="100%"> <!-- class="is-fullwidth" -->
-              <!--  <tr>
+                <tr>
                   <td class="">
                     <span class="icon"><i class="fa fa-cubes"></i></span>
                     {{ i18n "allTags" }}
@@ -43,7 +43,7 @@
                 <div class="has-text-right" >{{- .Count -}}</div>
               </div>  */}}
               <table width="100%"> <!-- class="is-fullwidth" -->
-                  <!--<tr>
+                  <tr>
                     <td class="">
                     {{- if eq (.Name) "xxxxx" -}}
                       <span class="icon"><i class="fa fa-tag"></i></span>
@@ -55,9 +55,9 @@
                     <td class="has-text-right" >
                         <div class="tag-number">{{- .Count -}}</div>
                       <!-- <span class="badge badge-notification clicks" title="32 clicks">{{- .Count -}}</span> -->
-                  <!--  </td>
+                    </td>
                     <!-- <span class="badge badge-notification clicks" title="32 clicks">32</span> -->
-                <!--  </tr>
+                  </tr>
               </table>
               {{/*  <div class="column">{{- .Name | humanize -}}</div>
               <div class="column has-text-right">{{- .Count -}}</div>  */}}
@@ -67,4 +67,4 @@
       {{- end -}}
     </ul>
   </div>
-</div>-->
+</div>
