@@ -6,6 +6,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      typographer: true
 
 #########################################
 ######## Uncomment this option ##########
@@ -18,7 +19,9 @@ assetDir: "static"
 # I.e., the landing language of your root
 DefaultContentLanguage: en
 
-disableKinds: ["sitemap","RSS"]
+disableKinds:
+  - sitemap
+  - RSS
 
 # Option to specify that all links will be open in a new tab.
 blackfriday:

@@ -1,6 +1,6 @@
 ---
 title: "Community Studies of Antisemitism in Schools"
-date: 2021-04-29
+date: 2021-05-08
 draft: false
 summaryImage: "csais2.png"
 summary: "Developing a community typology to address antisemitic incidents in schools."
@@ -11,11 +11,11 @@ resources:
 
 # Investigating School Hate in Context
 
-Antisemitic incidents in schools are a widespread and pervasive phenomenon. The ADL has reported a three-fold increase in school-based antisemitic incidences between 2015 and 2018, and a nearly two-fold increase in violent and non-violent incidences of antisemitism in general nationwide.
+Antisemitic incidents in schools are a widespread and pervasive phenomenon. The <abbr title="Anti-Defamation League">ADL</abbr> has reported a three-fold increase in school-based antisemitic incidences between 2015 and 2018, and a nearly two-fold increase in violent and non-violent incidences of antisemitism in general nationwide.
 
 <p style="text-align: center;"><img src="incidents_plot.png" width="75%" height="75%" alt="a plot of the types and nature of antisemitic incidents in schools nationwide" /></p>
 
-This project utilizes data from the ADL H.E.A.T. Map between 2016 and 2019 to identify incidents of antisemitism that specifically took place in schools. These incidents in schools are influenced by demographic, historical, social, and political factors. This project brings this data together to construct a community typology at the national level. This typology will provide insight into the ways that school-based incidents of hate are enacted and reported in context.
+This project utilizes data from the [ADL <abbr title="Hate, Extremism, Antisemitism, and Terrorism">H.E.A.T.</abbr> Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map) between 2016 and 2019 to identify incidents of antisemitism that specifically took place in schools. These incidents in schools are influenced by demographic, historical, social, and political factors. This project brings this data together to construct a community typology at the national level. This typology will provide insight into the ways that school-based incidents of hate are enacted and reported in context.
 
 Developing a community typology will allow providers to better target specific demographic, historical, and political attributes of the communities in which these incidents occur through curriculum and learning experiences.
 

@@ -1,0 +1,9 @@
+{{ $type := .Get "type" }}
+
+{{ range $.Site.Data.appointments.appointments }}
+  {{ if eq .type $type }}
+  <div class="item">
+  {{ .position }}, {{ .institution }}, {{ .start_year }}{{ if ne .start_year .end_year }} - {{ .end_year }}{{ end }}
+  </div>
+{{ end }}
+{{ end }}

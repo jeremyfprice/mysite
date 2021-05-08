@@ -1,6 +1,34 @@
 {
   "awards": [
       {
+          "title": "President's Teaching Award",
+          "institution": "IU School of Education-Indianapolis at IUPUI",
+          "start_year": "2020",
+          "end_year": "2020",
+          "aspect": "teaching"
+      },
+      {
+          "title": "Faculty Research Fellow",
+          "institution": "The Center for the Student of Religion & American Culture",
+          "start_year": "2019",
+          "end_year": "Present",
+          "aspect": "research"
+      },
+      {
+          "title": "Grant Improvement through Faculty Training (GIFT) Fellow",
+          "institution": "Office of the Vice Chancellor for Research at IUPUI",
+          "start_year": "2019",
+          "end_year": "Present",
+          "aspect": "research"
+      },
+      {
+          "title": "Mosaic Senior Teaching Fellow",
+          "institution": "IU Mosaic Active Teaching Program",
+          "start_year": "2019",
+          "end_year": "Present",
+          "aspect": "teaching"
+      },
+      {
           "title": "Open Education Resources Award",
           "institution": "IUPUI University Library",
           "start_year": "2019",
@@ -20,27 +48,6 @@
         "start_year": "2017",
         "end_year": "2018",
         "aspect": "teaching"
-    },
-    {
-        "title": "Mosaic Senior Teaching Fellow",
-        "institution": "IU Mosaic Active Teaching Program",
-        "start_year": "2019",
-        "end_year": "Present",
-        "aspect": "teaching"
-    },
-    {
-        "title": "Faculty Research Fellow",
-        "institution": "The Center for the Student of Religion & American Culture",
-        "start_year": "2019",
-        "end_year": "Present",
-        "aspect": "research"
-    },
-    {
-        "title": "Grant Improvement through Faculty Training (GIFT) Fellow",
-        "institution": "Office of the Vice Chancellor for Research at IUPUI",
-        "start_year": "2019",
-        "end_year": "Present",
-        "aspect": "research"
     },
     {
         "title": "New Faculty Fellow",

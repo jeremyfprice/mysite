@@ -1,0 +1,5 @@
+{{ range sort $.Site.Data.awards.awards "start_year" "desc" }}
+  <div class="item">
+  {{ .title }}, {{ .institution }}, {{ .start_year }}{{ if ne .start_year .end_year }} - {{ .end_year }}{{ end }}
+  </div>
+{{ end }}

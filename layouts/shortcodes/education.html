@@ -1,0 +1,9 @@
+{{ $level := .Get "level" }}
+
+{{ range $.Site.Data.education.education }}
+  {{ if eq .level $level }}
+  <div class="item">
+  {{ .degree }}, {{ .institution }}, {{ .year }}
+  </div>
+{{ end }}
+{{ end }}
