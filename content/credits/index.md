@@ -19,3 +19,5 @@ Other components used in building this website are:
 * [Spectral](https://fonts.google.com/specimen/Spectral) and [Rubik](https://fonts.google.com/specimen/Rubik) fonts from [Google Fonts](https://fonts.google.com/).
 
 * Color pallet from the [Indiana University web colors](https://styleguide.iu.edu/visual-style/colors.html).
+
+<p style="text-align: center;"><a href="https://app.netlify.com/sites/jeremyfprice/deploys"><img src="https://api.netlify.com/api/v1/badges/d9ad2e28-ffba-4143-a0a6-7e680859c09c/deploy-status" /></p>
