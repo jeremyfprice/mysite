@@ -1,11 +1,11 @@
 ---
-title: "The Digital Education Hub"
+title: "Digital Education Hub"
 date: 2021-05-01
 draft: false
 weight: 1
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
 summaryImage: "deh-full_logo.png"
-tags: ["community_engaged_scholarship", "educational_technology"]
+tags: ["community engaged scholarship", "educational technology"]
 resources:
 - src: deh.png
 ---

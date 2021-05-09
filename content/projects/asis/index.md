@@ -1,7 +1,7 @@
 ---
 title: "School Responses to Antisemitic Incidents"
 date: 2021-05-09
-draft: false
+draft: true
 weight: 5
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
 
