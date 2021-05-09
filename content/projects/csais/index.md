@@ -3,6 +3,7 @@ title: "Community Studies of Antisemitism in Schools"
 date: 2021-05-08
 draft: false
 summaryImage: "csais2.png"
+weight: 2
 summary: "Developing a community typology to address antisemitic incidents in schools."
 tags: ["white nationalism", "antisemitism", "research", "big data", "integrative methods"]
 resources:

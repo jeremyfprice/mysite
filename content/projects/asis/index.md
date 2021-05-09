@@ -1,16 +1,17 @@
 ---
-title: "The Digital Education Hub"
-date: 2021-05-01
+title: "School Responses to Antisemitic Incidents"
+date: 2021-05-09
 draft: false
-weight: 1
+weight: 5
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
+
+---
+
+# Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
 summaryImage: "deh-full_logo.png"
 tags: ["community_engaged_scholarship", "educational_technology"]
 resources:
 - src: deh.png
----
-
-# Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
 
 The Digital Education Hub is a research project grounded in the principles of [community-engaged scholarship](https://csl.iupui.edu/teaching-research/public-scholarship/index.html) that provides sustainable and rigorous support in collaboration with communities, families, and educators cultivating equity and inclusion in lifelong learning with technology especially for learners representing structurally marginalized identities and communities.
 {{< embed-pdf url="projects/deh/deh-manifesto.pdf" >}}
